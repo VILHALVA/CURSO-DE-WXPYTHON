@@ -1,4 +1,4 @@
-### SINTAXE
+# SINTAXE
 ## 1. LABELS:
 Os labels são usados para exibir texto estático na interface.
 
